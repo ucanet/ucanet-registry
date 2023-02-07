@@ -110,5 +110,5 @@ gnu.org 0 0.0.0.0
 icann.org 0 0.0.0.0
 tinypic.com 0 0.0.0.0
 debian.org 0 0.0.0.0
-domain 0 0.0.0.0
-domain 0 0.0.0.0
+state.gov 0 0.0.0.0
+usda.gov 0 0.0.0.0
