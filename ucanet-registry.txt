@@ -1,4 +1,4 @@
-ucanet.net 1070145323676205117 hello
+ucanet.net 1070145323676205117 haaaa
 ucanet.com 1070145323676205117 8.8.8.8
 ucanet.co 0 0.0.0.0
 ucanet.co.uk 0 0.0.0.0
