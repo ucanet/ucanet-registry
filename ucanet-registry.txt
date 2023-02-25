@@ -58,6 +58,7 @@ soundcloud.com 0 0.0.0.0
 pinterest.com 0 0.0.0.0
 samsung.com 0 0.0.0.0
 archive.org 0 0.0.0.0
+web.archive.org 0 207.241.237.3
 namecheap.com 0 0.0.0.0
 south32.com 0 0.0.0.0
 bbc.com 0 0.0.0.0
