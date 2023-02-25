@@ -47,6 +47,7 @@ amazon.com 0 0.0.0.0
 cnn.com 0 0.0.0.0
 nytimes.com 0 0.0.0.0
 wikimedia.org 0 0.0.0.0
+upload.wikimedia.org 0 208.80.154.240
 live.com 0 0.0.0.0
 paypal.com 0 0.0.0.0
 who.int 0 0.0.0.0
