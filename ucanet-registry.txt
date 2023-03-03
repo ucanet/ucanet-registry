@@ -10,7 +10,7 @@ microsoft.com 0 0.0.0.0
 apple.com 0 0.0.0.0
 google.com 0 0.0.0.0
 bing.com 0 0.0.0.0
-yahoo.com 277050650251231232 0.0.0.0
+yahoo.com 277050650251231232 216.137.187.245
 example.com 0 0.0.0.0
 us.gov 0 0.0.0.0
 msftconnececttest.com 0 0.0.0.0
