@@ -7,7 +7,7 @@ ucanet.us 0 0.0.0.0
 ucanet.co.us 0 0.0.0.0
 ucanet.co.jp 0 0.0.0.0
 microsoft.com 0 0.0.0.0
-apple.com 0 0.0.0.0
+apple.com 0 protoweb
 google.com 0 0.0.0.0
 bing.com 0 0.0.0.0
 yahoo.com 277050650251231232 216.137.187.245
