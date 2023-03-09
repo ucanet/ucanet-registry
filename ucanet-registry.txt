@@ -170,7 +170,7 @@ alexa.com 0 protoweb
 anarchyent.com 0 protoweb
 ast.com 0 protoweb
 conxion.com 0 protoweb
-bombadil.comm 0 protoweb
+bombadil.com 0 protoweb
 cdrom.com 0 protoweb
 compaq.com 0 protoweb
 e4me.com 0 protoweb
