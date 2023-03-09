@@ -6,7 +6,7 @@ ucanet.gov 0 0.0.0.0
 ucanet.us 0 0.0.0.0
 ucanet.co.us 0 0.0.0.0
 ucanet.co.jp 0 0.0.0.0
-microsoft.com 0 0.0.0.0
+microsoft.com 0 protoweb
 apple.com 0 protoweb
 google.com 0 0.0.0.0
 bing.com 0 0.0.0.0
@@ -79,7 +79,7 @@ nasa.gov 0 0.0.0.0
 time.com 0 0.0.0.0
 livejournal.com 0 0.0.0.0
 mit.edu 0 0.0.0.0
-aol.com 0 0.0.0.0
+aol.com 0 protoweb
 pbs.org 0 0.0.0.0
 yandex.com 0 0.0.0.0
 espn.com 0 0.0.0.0
@@ -148,3 +148,16 @@ alexsmine.cc 616613014837264385 alexsmine
 website6000.net 931623851614429294 100.16.36.50
 macintoshgarden.org 267316948277264386 98.128.145.216
 wayback.protoweb.org 0 156.146.201.112
+weather.com 0 protoweb
+runescape.com 0 protoweb
+shoutcast.com 0 protoweb
+newgrounds.com 0 protoweb
+ezone.com 0 protoweb
+homestarrunner.com 0 protoweb
+popcap.com 0 protoweb
+geocities.com 0 protoweb
+sega.com 0 protoweb
+webring.org 0 protoweb
+inode.com 0 protoweb
+bonzi.com 0 protoweb
+capcom.com 0 protoweb
