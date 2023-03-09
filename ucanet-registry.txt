@@ -164,3 +164,4 @@ capcom.com 0 protoweb
 jagex.com 0 protoweb
 ungrounded.net 0 protoweb
 akamai.net 0 protoweb
+yimg.com
