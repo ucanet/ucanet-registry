@@ -13,7 +13,7 @@ Field | Description
 ------|-------
 0     | Defines the name or subdomain of the entry.
 1     | Discord ID, 1, or 0. If 1, domain is registered by a github user. If 0, domain was registered by repo managers and is used for internal purposes.
-2     | The IP address or Neocities subdomain.
+2     | The IP address or Neocities subdomain. If equal to "protoweb", sites will pull from Protoweb's proxy.
 3     | Extra field. If the second field value is 1, this must a Github username.
 
 ## Manual Registration
