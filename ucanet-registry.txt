@@ -161,3 +161,4 @@ webring.org 0 protoweb
 inode.com 0 protoweb
 bonzi.com 0 protoweb
 capcom.com 0 protoweb
+jagex.com 0 protoweb
