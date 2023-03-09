@@ -100,7 +100,7 @@ discord.com 0 0.0.0.0
 bandcamp.com 0 0.0.0.0
 walmart.com 0 0.0.0.0
 gofundme.com 0 0.0.0.0
-netfix.com 0 0.0.0.0
+netflix.com 0 0.0.0.0
 hulu.com 0 0.0.0.0
 qq.com 0 0.0.0.0
 godaddy.com 0 0.0.0.0
@@ -165,3 +165,11 @@ jagex.com 0 protoweb
 ungrounded.net 0 protoweb
 akamai.net 0 protoweb
 yimg.com 0 protoweb
+3dfx.com 0 protoweb
+3drealms.com 0 protoweb
+alexa.com 0 protoweb
+apogee.com 0 protoweb
+accolade.com 0 protoweb
+anarchyent.com 0 protoweb
+ast.com 0 protoweb
+conxion.com 0 protoweb
