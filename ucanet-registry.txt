@@ -206,3 +206,15 @@ weatherlocal.com 788474633703653416 35.186.238.101
 msn.com 0 protoweb
 songbird.me 788474633703653416 3.64.163.50
 redrobot.fish 891745182628843631 0.0.0.0
+client.msn.com 0 141.147.8.64
+login.live.com 0 141.147.8.64
+arc2.msn.com 0 141.147.8.64
+logo.msn.com 0 141.147.8.64
+nexus.passport.com 0 141.147.8.64
+my.msn.com 0 141.147.8.64
+go.msn.com 0 141.147.8.64
+moneycentral.msn.com 0 141.147.8.64
+ads.msn.com 0 141.147.8.64
+arc.msn.com 0 141.147.8.64
+ads2.msn.com 0 141.147.8.64
+autoupdate.msn.com 0 141.147.8.64
