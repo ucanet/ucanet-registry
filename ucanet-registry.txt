@@ -218,3 +218,5 @@ ads.msn.com 0 141.147.8.64
 arc.msn.com 0 141.147.8.64
 ads2.msn.com 0 141.147.8.64
 autoupdate.msn.com 0 141.147.8.64
+000webhostapp.com 0 153.92.0.100
+glorified-legends.000webhostapp.com 0 145.14.145.9
