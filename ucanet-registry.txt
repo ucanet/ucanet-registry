@@ -210,6 +210,7 @@ client.msn.com 0 141.147.8.64
 login.live.com 0 141.147.8.64
 arc2.msn.com 0 141.147.8.64
 logo.msn.com 0 141.147.8.64
+login.msn.com 0 141.147.8.64
 nexus.passport.com 0 141.147.8.64
 my.msn.com 0 141.147.8.64
 go.msn.com 0 141.147.8.64
