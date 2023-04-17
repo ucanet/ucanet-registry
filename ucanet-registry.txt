@@ -9,6 +9,7 @@ ucanet.co.jp 0 0.0.0.0
 microsoft.com 0 protoweb
 apple.com 0 protoweb
 google.com 0 0.0.0.0
+cse.google.com 0 142.251.163.101
 bing.com 0 0.0.0.0
 yahoo.com 277050650251231232 216.137.187.245
 example.com 0 0.0.0.0
