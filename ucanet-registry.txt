@@ -1,5 +1,5 @@
 ucanet.net 1070145323676205117 135.148.41.26
-ucanet.com 1070145323676205117 8.8.8.8
+ucanet.com 1070145323676205117 0.0.0.0
 ucanet.co 0 0.0.0.0
 ucanet.co.uk 0 0.0.0.0
 ucanet.gov 0 0.0.0.0
@@ -8,7 +8,7 @@ ucanet.co.us 0 0.0.0.0
 ucanet.co.jp 0 0.0.0.0
 microsoft.com 0 protoweb
 apple.com 0 protoweb
-google.com 0 0.0.0.0
+google.com 0 protoweb
 cse.google.com 0 142.251.163.101
 bing.com 0 0.0.0.0
 yahoo.com 277050650251231232 216.137.187.245
@@ -314,3 +314,7 @@ rolost.rocks 774149742057619486 15414451875asd
 0xbabaf000l.net 891745182628843631 78.108.218.130
 hank.com 797192288174342155 204.44.192.28
 carfree.com 1070145323676205117 82.94.166.154
+x.com 0 protoweb
+toastytech.com 0 protoweb
+protocity.com 0 protoweb
+gato.nukley.com 0 protoweb
