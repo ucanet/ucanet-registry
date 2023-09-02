@@ -257,7 +257,6 @@ ncmuseum.org.au 0 protoweb
 dreampipe.net 0 protoweb
 eternal-september.org 0 protoweb
 frogfind.com 0 protoweb
-bungie.org 0 protoweb
 mirsoft.info 0 protoweb
 techfrog88.com 0 protoweb
 pracdev.org 0 protoweb
@@ -507,4 +506,5 @@ wincofoods.com 0 protoweb
 windowsontheworld.com 0 protoweb
 win-rar.com 0 protoweb
 zine.net 0 protoweb
+bungie.com 0 protoweb
 7-eleven.com 0 protoweb
