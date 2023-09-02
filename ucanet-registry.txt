@@ -467,7 +467,7 @@ quakeworld.net 891745182628843631 165.160.15.20
 fuck.living 797192288174342155 0.0.0.0
 pornhub.com 523429301455159316 66.254.114.41
 jr.com 554818466096611358 0.0.0.0
-bindfordtools.com 0 protoweb
+binfordtools.com 0 protoweb
 blood.com 0 protoweb
 blondertongue.com 0 protoweb
 bookitprogram.com 0 protoweb
