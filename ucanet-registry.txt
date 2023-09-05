@@ -536,3 +536,4 @@ windowsmarketplace.com 1136005439411212369 downloadfilesfree33
 pokemon.com 1136005439411212369 pkmnworldarchive
 mjd.com 554818466096611358 0.0.0.0
 rssnews.net 1136005439411212369 shopchannel
+ucanet.dev 267316948277264386 0.0.0.0
