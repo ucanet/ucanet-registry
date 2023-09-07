@@ -200,7 +200,6 @@ city.fi 0 protoweb
 unipi.it 0 protoweb
 sega.co.jp 0 protoweb
 cern.ch 0 protoweb
-escargot.chat 931623851614429294 104.236.95.230
 lynx.re 119850239040421889 136.243.156.120
 pecetfull.pl 119850239040421889 185.123.53.20
 weatherlocal.com 788474633703653416 35.186.238.101
