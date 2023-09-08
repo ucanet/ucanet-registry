@@ -11,7 +11,7 @@ apple.com 0 protoweb
 google.com 0 protoweb
 cse.google.com 0 142.251.163.101
 bing.com 0 0.0.0.0
-yahoo.com 277050650251231232 216.137.187.245
+yahoo.com 277050650251231232 216.137.177.184
 example.com 0 0.0.0.0
 us.gov 0 0.0.0.0
 msftconnececttest.com 0 0.0.0.0
