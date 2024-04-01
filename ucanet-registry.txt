@@ -665,3 +665,5 @@ fodobasics.com 0 protoweb
 omnitel.lt 0 protoweb
 advancedultra.net 472907229989699585 10.108.1.1
 testing-again.com 1070145323676205117 0.0.0.0
+testing-two-time.com 1070145323676205117 0.0.0.0
+testing-one-time.com 1070145323676205117 0.0.0.0
