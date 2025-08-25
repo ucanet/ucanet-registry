@@ -30,9 +30,12 @@ Each line in this file is expected to have the following structure:
 
 **Files Written**:
 - A backup of the original file is saved as:  
-  `../ucanet-registry/ucanet-registry-v1.0.txt`
+  `../ucanet-registry/ucanet-registry-v1.0-as-at{date stamp}.txt`
 - The updated file is saved as:  
   `../ucanet-registry/ucanet-registry.txt`
+
+### Option 2: Adds useful domains to the collective
+This option will append the contents of addons.txt to the v1.1 registry. It contains sites that may be of interest to retrocomputing. The structure is [ucanet domain name] 0 [realworld domain name] using the real world name will mean less maintenance as ucanet now has the ability to pass through to the real world domain, without needing to constantly update the ip address in the registry. The 0 between the domain names means they are not owned by anyone. There are some domains in the list that are owned by people already, those will be turned over to the collective. It shouldn't be controversial as there is no longer a need for the owner to perform maintenance on the domain. If you disagree, you can always remove the offending domain from addons.txt. 
 
 ### Option 0: Exit  
 Closes the application.
