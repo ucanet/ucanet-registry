@@ -19,5 +19,8 @@ Field | Description
 ## Manual Registration
 If you want to avoid registering a domain over discord, you can submit a pull request with your domain. Following the format defined above, please provide a domain name, ip address (or Neocities site), and your Github username. Here is an example of a formatted entry `ucanet.net 1 172.67.219.131 ucanet`. Pull request domain registrations will be reviewed manually.
 
+## ucanet-registry-updater
+This repository contains ucanet-registry-updater.py which contains utilities for managing the registry. See the included registry-updater.md readme for more details.
+
 ## License
 [APGL-3.0 license](https://github.com/ucanet/ucanet-registry/blob/main/LICENSE.md)
